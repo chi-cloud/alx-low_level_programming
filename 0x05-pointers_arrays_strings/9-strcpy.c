@@ -21,7 +21,3 @@ count++;
 }
 return (dest);
 }
-
-
-
-

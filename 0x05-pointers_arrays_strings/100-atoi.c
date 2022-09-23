@@ -1,5 +1,5 @@
 #include "main.h"
-#include  <stdio.h>
+
 /**
 * _atoi - converts a string to an integer.
 * @s: input string.
@@ -33,5 +33,3 @@ m /= 10;
 }
 return (oi *pn);
 }
-
-
